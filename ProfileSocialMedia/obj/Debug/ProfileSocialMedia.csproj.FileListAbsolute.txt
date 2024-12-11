@@ -1,0 +1,55 @@
+C:\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe.config
+C:\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe
+C:\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.pdb
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.AssemblyReference.cache
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Form1.resources
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Form2.resources
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Properties.Resources.resources
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.GenerateResource.cache
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.CoreCompileInputs.cache
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.exe
+C:\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.pdb
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe.config
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.pdb
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.AssemblyReference.cache
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Form1.resources
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Form2.resources
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Properties.Resources.resources
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.GenerateResource.cache
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.CoreCompileInputs.cache
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.exe
+C:\Vs projects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.exe.config
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\ProfileSocialMedia.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.AssemblyReference.cache
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Properties.Resources.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.GenerateResource.cache
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.exe
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Auth.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Compute.v1.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Core.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\System.CodeDom.dll
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Auth.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Compute.v1.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Compute.v1.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Core.pdb
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Google.Apis.Core.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\bin\Debug\System.CodeDom.xml
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileS.2D968BF1.Up2Date
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.LoginForm.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.UserProfileForm.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.newAccount.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.followingFollowers.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.addFriends.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.removeFriends.resources
+C:\Users\binary\IdeaProjects\ProfileSocialMedia\ProfileSocialMedia\obj\Debug\ProfileSocialMedia.Identity.resources
